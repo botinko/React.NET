@@ -185,3 +185,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+src/React.AspNet/project.json
+src/wrap/VroomJs/project.json
+src/React.AspNet/project.json
+src/wrap/React/project.json
